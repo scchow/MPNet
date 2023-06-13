@@ -1,0 +1,5 @@
+**/build/**
+**/lcmtypes/c/lcmtypes/**
+**/pod-build/**
+**/__pycache__/**
+**/data_generation/lcmtypes/lcmtypes/c/**
